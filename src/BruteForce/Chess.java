@@ -13,6 +13,7 @@ package BruteForce;
  * 지민이는 8*8 크기의 체스판으로 잘라낸 후에 몇 개의 정사각형을 다시 칠해야겠다고 생각했다.
  * 당연히 8*8 크기는 아무데서나 골라도 된다.
  * 지민이가 다시 칠해야 하는 정사각형의 최소 개수를 구하는 프로그램을 작성하시오.
+ * 2020/11/2
  */
 public class Chess {
     public static void main(String[] args) {
